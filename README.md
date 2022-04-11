@@ -2,3 +2,4 @@
 features
 tourism
 about us
+contact us
