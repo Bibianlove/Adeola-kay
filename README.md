@@ -3,3 +3,5 @@ features
 tourism
 about us
 contact us
+education
+mission
