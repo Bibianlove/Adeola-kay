@@ -6,3 +6,4 @@ contact us
 education
 mission
 vission
+register
