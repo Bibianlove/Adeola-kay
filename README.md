@@ -7,3 +7,5 @@ education
 mission
 vission
 register
+tommorow
+yesterday
